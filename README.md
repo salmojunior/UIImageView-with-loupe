@@ -1,6 +1,6 @@
 UIImageView-with-loupe
 ======================
 
-Simple project for to show as make the loupe effect in an UIImageView.
+Simple project to show as make the loupe effect in an UIImageView.
 
-![ScreenShot](/print.png)
+![UIImageView-with-loupe Animation](/loupe.gif)
